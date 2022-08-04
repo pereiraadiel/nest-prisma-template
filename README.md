@@ -1,11 +1,10 @@
 <h1 style='font-size: 24px; border: none; display: flex; justify-content: space-between; align-items: center'>Template <i style='font-size: 20px; font-weight: bold;'>Nest.js & Prisma</i>
   <p style='display: flex; align-items: center;'>
-    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="45" alt="Nest Logo" /></a>
-    ®
-    <a href="http://prisma.io/" target="blank"><img src="https://website-v9.vercel.app/logo-dark.svg" width="80" alt="Nest Logo" /></a>®
-</h1>
-
+    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="35" alt="Nest Logo" /></a>
+    ·
+    <a href="http://prisma.io/" target="blank"><img src="https://website-v9.vercel.app/logo-dark.svg" width="80" alt="Nest Logo" /></a>
   </p>
+</h1>
 
 ## Description
 
