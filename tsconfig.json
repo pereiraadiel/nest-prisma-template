@@ -19,7 +19,9 @@
       "@interfaces/*": ["src/app/interfaces/*"],
       "@infra/*": ["src/infra/*"],
       "@modules/*": ["src/infra/modules/*"],
-      "@utils/*": ["src/utils/*"]
+      "@shared/*": ["src/shared/*"],
+      "@services/*": ["src/shared/services/*"],
+      "@utils/*": ["src/utils/*"],
     },
     "incremental": true,
     "skipLibCheck": true,
